@@ -1,7 +1,7 @@
 ![Texto alternativo](perfil/portada.png)
 
 
-# Perfil de Angeles IB
+# Angeles IB
 
 👩‍💻 Estudiante de Ingeniería en Computación en Uaemex 🎓
 
