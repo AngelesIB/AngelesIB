@@ -1,3 +1,6 @@
+![Texto alternativo](URL_de_la_imagen)
+
+
 # Perfil de Angeles IB
 
 👩‍💻 Estudiante de Ingeniería en Computación en Uaemex 🎓
