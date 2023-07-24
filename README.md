@@ -1,4 +1,4 @@
-![Texto alternativo](URL_de_la_imagen)
+![Texto alternativo](perfil/portada.png)
 
 
 # Perfil de Angeles IB
